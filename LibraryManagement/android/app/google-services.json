@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335637872086",
+    "project_id": "kutuphaneyonetimi-278ea",
+    "storage_bucket": "kutuphaneyonetimi-278ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335637872086:android:c5bd20912b1b1a42b03877",
+        "android_client_info": {
+          "package_name": "com.example.ders3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP9AEoSi52KHVVPrMX3MkVnMO18DCYT3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
